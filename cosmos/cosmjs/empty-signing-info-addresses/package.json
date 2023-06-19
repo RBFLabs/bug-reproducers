@@ -1,0 +1,14 @@
+{
+  "name": "empty-signing-info-addresses",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "author": "RockawayX Labs",
+  "license": "MIT",
+  "dependencies": {
+    "@cosmjs/stargate": "^0.30.1"
+  },
+  "devDependencies": {
+    "tsx": "^3.12.7",
+    "typescript": "^5.1.3"
+  }
+}
