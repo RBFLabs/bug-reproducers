@@ -1,0 +1,16 @@
+{
+  "name": "postgres-upsert-increment",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "author": "RockawayX Labs",
+  "license": "MIT",
+  "dependencies": {
+    "@prisma/client": "^5.0.0",
+    "pg-mem": "^2.6.13"
+  },
+  "devDependencies": {
+    "prisma": "^5.0.0",
+    "tsx": "^3.12.7",
+    "typescript": "^5.1.3"
+  }
+}
